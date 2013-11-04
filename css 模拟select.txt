@@ -1,0 +1,4 @@
+select{-webkit-appearance:none;-moz-appearance:none;appearance:none;}
+wrap:after{position: absolute;top:2px;right:0;content: url(img/icon1.gif);pointer-events:none;}
+
+/* ie系列都不认识 */
